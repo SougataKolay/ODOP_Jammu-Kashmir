@@ -6,12 +6,14 @@ This repository is dedicated to building an online platform that empowers Kashmi
 Project Goal:
 
 The ODOP (One District, One Product) initiative aims to support local communities in Jammu & Kashmir by providing a platform to sell their handcrafted products online. 
+
 This project will:
 
 Empower Kashmiri artisans: Showcase their talent and reach a wider audience.
 Drive economic growth: Generate income for artisans and contribute to the local economy.
 Preserve cultural heritage: Promote traditional Kashmiri crafts and customs.
-Target Audience
+
+Target Audience:
 
 Kashmiri artisans and businesses: Sell their authentic products online.
 Consumers: Purchase genuine Kashmiri handicrafts and goods.
